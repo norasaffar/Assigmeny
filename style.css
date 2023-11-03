@@ -1,0 +1,207 @@
+
+* { 
+    font-family:Amatic SC ;
+    ;margin: 0;
+    text-decoration: none
+}
+body
+{
+ margin: 0px;
+}
+
+.topbar
+ {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+
+.firstsection
+{
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 80px;
+  background-position:center;
+
+}
+
+.picture
+{
+  background-image: url("https://wilddiscovery.co.uk/wp-content/uploads/2020/07/Capybara-encounter-e1626247202379-1024x440.jpg"); 
+  width:100%;
+  height:100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbarr
+{
+display: flex;
+flex-direction: column;
+border:solid white 2px;
+
+
+}
+.navBar a
+{
+ padding: 20px;
+
+
+}
+/* 
+.navbar
+{
+ display: flex;
+ align-items: center;
+ justify-content:center;
+
+
+} */
+
+a
+{
+  font-size: 20px;
+  color: white;
+
+
+
+}
+ .box {
+  font-size: 50px;
+  text-align: center;
+  padding-top: 20px;
+  margin: 20%;
+  display: flexbox;
+
+}
+ 
+ .topsection
+ {
+   display: flex;
+   justify-content:flex-start;
+   margin: 40px;
+   padding-top: 0%;
+   
+ }
+
+.navtext
+{
+  color: white;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  width: 70%;
+  padding-left: 10px;
+  flex-direction: row;
+}
+
+.headingtext
+{
+  color: white;
+  font-size: x-large;
+  display:flex;
+  justify-content: flex-start;
+  padding-top: 20px;
+  padding-left: 10px;
+  border: solid 2px pink;
+}
+
+.headingtextbutton
+{
+  display:flex;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  margin-top:40vh;
+}
+
+.findbutton
+{
+  border-radius: 20px;
+  background-color: rgb(164, 235, 120);
+  font-size: 26px;
+  color: black;
+  padding: 40px 60px ;
+  border-radius: 50px;
+  font-weight: 700;
+  flex-direction:flex
+}
+
+
+.inner-container
+{
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  height: auto;
+  margin-top: 200px;
+
+}
+
+
+.secondsection
+{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin:;
+
+}
+
+
+.secondsection
+{
+  border-bottom: 100px;
+  text-align: left;
+  position: relative;
+  border: 3px solid black;
+  color: rgb(83, 220, 160);
+}
+
+
+.p {
+    color: rgb(255, 255, 255);
+    text-align: left;
+    text-align: center;
+}
+
+/* body{
+      background-color:azure;
+
+} */
+
+.box {
+  font-size: 50px;
+  text-align: center;
+  padding-top: 20px;
+  margin: 20%;
+  display: flexbox;
+
+}
+
+.secondheader
+ {
+    text-align: center;
+    margin-top: 20px;
+
+
+ }
+/* Apply flex rules here to change layout of Boxes */
+.container {
+    display: flex;
+    flex-wrap: wrap;  
+    justify-content: center;
+    justify-content:flex-start;
+}
+
+
+/* .body
+{ 
+    background-image:url("https://t3.ftcdn.net/jpg/01/91/95/30/240_F_191953033_gehQATeDoh5z6PyRDbeKyBZuS83CjMEF.jpg");
+    height:;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative
+         */
